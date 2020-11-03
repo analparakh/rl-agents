@@ -1,5 +1,5 @@
 {
-    "id": "intersection-multi-agent-v1",
+    "id": "demolition_derby-v0",
     "import_module": "highway_env",
     "observation": {
         "type": "MultiAgentObservation",
